@@ -3,7 +3,7 @@
 
 ## Installation
 1. Clone the repo
-2. Execute `make build install` in the repo.
+2. Execute `make build install` in the repo. *(`v` should be installed)*
 
 ## Usage
 Generate a color: `susgen [color]`<br/>
